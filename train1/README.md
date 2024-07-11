@@ -1,6 +1,6 @@
 #### 不同优化器
 
-建立带有五种优化器的网络，设定15个batch，在训练集上进行训练，并在每个batch中对测试集进行预测，记录每个batch中的loss及预测准确率，以下分别是1/5/10/15个batch相应结果：
+建立带有五种优化器的网络，设定15个epoch，在训练集上进行训练，并在每个epoch中对测试集进行预测，记录每个epoch中的loss及预测准确率，以下分别是第1/5/10/15个epoch相应结果：
 
 ```
 [Optim SGD,Epoch 1] loss: 1.451
@@ -54,7 +54,7 @@ Accuracy of the network on the 10000 test images: 63 %
 Accuracy of the network on the 10000 test images: 43 %
 ```
 
-根据每个batch绘制出的loss和acc图像如下所示：
+根据每个epoch绘制出的loss和acc图像如下所示：
 
 ![train_loss](https://github.com/aqqqaqqqq/2024-train/blob/main/train1/train_loss.png)
 
@@ -62,7 +62,7 @@ Accuracy of the network on the 10000 test images: 43 %
 
 #### 不同学习率
 
-为了考虑学习率对网络的影响，建立了四种不同的学习率，在10个batch内记录每个网络的loss及预测准确率，下面是在1/5/10个batch得到的结果：
+为了考虑学习率对网络的影响，建立了四种不同的学习率，在10个epoch内记录每个网络的loss及预测准确率，下面是在1/5/10个epoch得到的结果：
 
 ```
 [learning_rate 0.001000,Epoch 1] loss: 1.443
