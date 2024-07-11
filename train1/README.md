@@ -56,7 +56,7 @@ Accuracy of the network on the 10000 test images: 43 %
 
 根据每个batch绘制出的loss和acc图像如下所示：
 
-![train_loss](D:\5-1研一\新生培训\train1\train_loss.png)
+![train_loss](2024-train\train1\train_loss.png)
 
 ![train_acc](D:\5-1研一\新生培训\train1\train_acc.png)
 
