@@ -58,7 +58,7 @@ Accuracy of the network on the 10000 test images: 43 %
 
 ![train_loss](https://github.com/aqqqaqqqq/2024-train/blob/main/train1/train_loss.png)
 
-![train_acc](D:\5-1研一\新生培训\train1\train_acc.png)
+![train_acc](https://github.com/aqqqaqqqq/2024-train/blob/main/train1/train_acc.png)
 
 #### 不同学习率
 
@@ -99,6 +99,6 @@ Accuracy of the network on the 10000 test images: 10 %
 
 得到每个batch绘制loss和acc图像：
 
-![learning_loss](D:\5-1研一\新生培训\train1\learning_loss.png)
+![learning_loss](https://github.com/aqqqaqqqq/2024-train/blob/main/train1/learning_loss.png)
 
-![learning_acc](D:\5-1研一\新生培训\train1\learning_acc.png)
+![learning_acc](https://github.com/aqqqaqqqq/2024-train/blob/main/train1/learning_acc.png)
