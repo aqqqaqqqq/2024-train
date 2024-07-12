@@ -22,13 +22,13 @@
 
 综合loss曲线和Accuracy曲线如下图所示：
 
-![trainloss](D:\5-1研一\新生培训\train2\trainloss.png)
+![trainloss](https://github.com/aqqqaqqqq/2024-train/blob/main/train2/trainloss.png)
 
-![trainacc](D:\5-1研一\新生培训\train2\trainacc.png)
+![trainacc](https://github.com/aqqqaqqqq/2024-train/blob/main/train2/trainacc.png)
 
 在每个epoch训练后，将模型在测试集上进行预测，得到的两个网络模型在测试集上的综合Accuracy曲线如下图所示：
 
-![testacc](D:\5-1研一\新生培训\train2\testacc.png)
+![testacc](https://github.com/aqqqaqqqq/2024-train/blob/main/train2/testacc.png)
 
 对测试集中的每个类别单独计算Accuracy，得到的两个网络模型结果如下表所示：
 
