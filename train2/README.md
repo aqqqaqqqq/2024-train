@@ -45,3 +45,6 @@
 |   ship   |    87    |     87     |
 |  truck   |    84    |     86     |
 
+将epoch增加为30，将batchsize增加为64，继续在训练集和测试集上进行训练与预测，得到的结构如下图所示：
+
+![testacc2](https://github.com/aqqqaqqqq/2024-train/blob/main/train2/testacc2.png)
