@@ -22,9 +22,9 @@ Epoch 15/15, Train Loss: 0.0043, Test Loss: 1.0651
 
 LSTM和GRU的两个loss曲线如下图所示：
 
-![trainloss](D:\5-1研一\新生培训\train3\lstmloss.png)
+![lstmloss](https://github.com/aqqqaqqqq/2024-train/blob/main/train3/lstmloss.png)
 
-![trainacc](D:\5-1研一\新生培训\train3\gruloss.png)
+![gruloss](https://github.com/aqqqaqqqq/2024-train/blob/main/train3/gruloss.png)
 
 对测试集中的每个类别单独计算Accuracy，得到的两个网络模型结果如下表所示：
 
