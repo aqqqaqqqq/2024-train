@@ -6,3 +6,10 @@ git commit -m
 git pull origin main --allow-unrelated-histories
 git pull origin main
 git push -u origin main
+
+git init
+git remote add origin https://github.com/BestPI/OmniGibson-Rearrange
+git add . 
+git commnit -m
+git pull origin wq
+git push origin master:wq
