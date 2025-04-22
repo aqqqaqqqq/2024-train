@@ -11,6 +11,6 @@ git init
 git remote add origin https://github.com/BestPI/OmniGibson-Rearrange
 git add . 
 git commit -m
-git pull origin wq
-git push origin master:wq
+git pull origin rearrange_dev
+git push origin master:rearrange_dev
 1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
